@@ -21,8 +21,9 @@ VlocityDataPackKeys:
     - lwc/cfCpqSpinner
     - lwc/cPQAssetViewerOrderFlowMultiLanguage
     - lwc/cPQAssetViewerQuoteFlowMultiLanguage
-    - profiles/Admin.profile
     - objects/Idea/Idea.object
+    - profiles/Admin.profile
+    - objects/Idea/recordTypes/InternalIdeasIdeaRecordType.recordType
 VlocityTypesToFetch:
     - CpqConfigurationSetup
     - OmniScript
@@ -32,3 +33,4 @@ SalesforceTypesToFetch:
     - FlexiPage
     - LightningComponentBundle
     - Profile
+    - RecordType
