@@ -30,6 +30,20 @@
         "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
     },
     {
+        "%vlocity_namespace%__DefaultValue__c": "500",
+        "%vlocity_namespace%__DomainObjectAPIName__c": "Opportunity",
+        "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
+        "%vlocity_namespace%__DomainObjectFieldAPIName__c": "Amount",
+        "%vlocity_namespace%__IsDisabled__c": false,
+        "%vlocity_namespace%__IsRequiredForUpsert__c": false,
+        "%vlocity_namespace%__MapId__c": "CPQCreateOpportunityCustom300",
+        "%vlocity_namespace%__OMplusSyncEnabled__c": true,
+        "%vlocity_namespace%__UpsertKey__c": false,
+        "Name": "CPQCreateOpportunity",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__DRMapItem__c"
+    },
+    {
         "%vlocity_namespace%__DomainObjectAPIName__c": "Opportunity",
         "%vlocity_namespace%__DomainObjectCreationOrder__c": 1,
         "%vlocity_namespace%__DomainObjectFieldAPIName__c": "CloseDate",
